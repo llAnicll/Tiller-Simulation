@@ -1,0 +1,10 @@
+<svg id="icon-speed" xmlns="http://www.w3.org/2000/svg" width="70" height="70" viewBox="0 0 70 70">
+  <rect id="Rectangle" width="70" height="70" fill="none"/>
+  <g id="Group_9" data-name="Group 9" transform="translate(21 17)">
+    <path id="Stroke_1" data-name="Stroke 1" d="M28.344,14.173A14.172,14.172,0,1,1,14.172,0,14.173,14.173,0,0,1,28.344,14.173Z" transform="translate(0 6.686)" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="3.51"/>
+    <path id="Stroke_3" data-name="Stroke 3" d="M0,0,5.768,6.726" transform="translate(8.857 14.919)" fill="none" stroke="#0072ce" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.51"/>
+    <path id="Stroke_3_Copy" data-name="Stroke 3 Copy" d="M.585,4.386,6.435.876" transform="translate(14.04 17.259)" fill="none" stroke="#0072ce" stroke-linecap="round" stroke-miterlimit="10" stroke-width="3.51"/>
+    <path id="Stroke_5" data-name="Stroke 5" d="M0,3.883,3.883,0" transform="translate(23.205 6.056)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3.51"/>
+    <path id="Stroke_7" data-name="Stroke 7" d="M0,.373H9.378" transform="translate(9.483 0.373)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3.51"/>
+  </g>
+</svg>

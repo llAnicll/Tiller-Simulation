@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="426" height="426.38" viewBox="0 0 426 426.38">
+  <defs>
+    <filter id="Oval" x="123" y="161.38" width="104" height="104" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-opacity="0.106"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="img-2" transform="translate(0 -0.62)">
+    <g id="Group_20" data-name="Group 20">
+      <path id="Fill_32" data-name="Fill 32" d="M380,190c0,104.934-85.068,190-190,190S0,294.934,0,190,85.068,0,190,0,380,85.066,380,190" transform="translate(23 24)" fill="none" stroke="#707070" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Fill_32-2" data-name="Fill 32" d="M260,130A130,130,0,1,1,130,0,130,130,0,0,1,260,130" transform="translate(83 84)" fill="none" stroke="#707070" stroke-miterlimit="10" stroke-width="2"/>
+      <g id="Group_28_Copy" data-name="Group 28 Copy" transform="translate(190)">
+        <g id="Group_30" data-name="Group 30" transform="translate(0.982 0.62)">
+          <g id="Group_14" data-name="Group 14">
+            <circle id="Oval_Copy_23" data-name="Oval Copy 23" cx="23" cy="23" r="23" fill="#00b2a9"/>
+            <g id="person_copy_8" data-name="person copy 8" transform="translate(9 7.5)">
+              <rect id="Rectangle" width="28.085" height="28.085" opacity="0"/>
+              <path id="Path" d="M4.681,9.362A4.681,4.681,0,1,0,0,4.681,4.681,4.681,0,0,0,4.681,9.362Z" transform="translate(9.362 3.343)" fill="#fff"/>
+            </g>
+          </g>
+          <path id="Path-2" data-name="Path" d="M15.523,9.362a1.182,1.182,0,0,0,1.194-1.17A8.276,8.276,0,0,0,8.359,0,8.276,8.276,0,0,0,0,8.191a1.182,1.182,0,0,0,1.194,1.17Z" transform="translate(15.018 22.88)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_27" data-name="Group 27" transform="translate(339 317)">
+        <circle id="Oval_Copy_24" data-name="Oval Copy 24" cx="23" cy="23" r="23" fill="#00b2a9"/>
+        <g id="person_copy_9" data-name="person copy 9" transform="translate(9 7.5)">
+          <rect id="Rectangle-2" data-name="Rectangle" width="28.085" height="28.085" opacity="0"/>
+          <path id="Path-3" data-name="Path" d="M4.681,9.362A4.681,4.681,0,1,0,0,4.681,4.681,4.681,0,0,0,4.681,9.362Z" transform="translate(9.362 3.343)" fill="#fff"/>
+          <path id="Path-4" data-name="Path" d="M15.523,9.362a1.182,1.182,0,0,0,1.194-1.17A8.276,8.276,0,0,0,8.359,0,8.276,8.276,0,0,0,0,8.191a1.182,1.182,0,0,0,1.194,1.17Z" transform="translate(6.018 15.38)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_31" data-name="Group 31" transform="translate(190 381)">
+        <circle id="Oval_Copy_25" data-name="Oval Copy 25" cx="23" cy="23" r="23" fill="#00b2a9"/>
+        <g id="person_copy_10" data-name="person copy 10" transform="translate(9 8)">
+          <rect id="Rectangle-3" data-name="Rectangle" width="28.085" height="28.085" opacity="0"/>
+          <path id="Path-5" data-name="Path" d="M4.681,9.362A4.681,4.681,0,1,0,0,4.681,4.681,4.681,0,0,0,4.681,9.362Z" transform="translate(9.362 3.343)" fill="#fff"/>
+          <path id="Path-6" data-name="Path" d="M15.523,9.362a1.182,1.182,0,0,0,1.194-1.17A8.276,8.276,0,0,0,8.359,0,8.276,8.276,0,0,0,0,8.191a1.182,1.182,0,0,0,1.194,1.17Z" transform="translate(6.018 15.38)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_26" data-name="Group 26" transform="translate(43 317)">
+        <circle id="Oval_Copy_26" data-name="Oval Copy 26" cx="23" cy="23" r="23" fill="#00b2a9"/>
+        <g id="person_copy_11" data-name="person copy 11" transform="translate(9 7.5)">
+          <rect id="Rectangle-4" data-name="Rectangle" width="28.085" height="28.085" opacity="0"/>
+          <path id="Path-7" data-name="Path" d="M4.681,9.362A4.681,4.681,0,1,0,0,4.681,4.681,4.681,0,0,0,4.681,9.362Z" transform="translate(9.362 3.343)" fill="#fff"/>
+          <path id="Path-8" data-name="Path" d="M15.523,9.362a1.182,1.182,0,0,0,1.194-1.17A8.276,8.276,0,0,0,8.359,0,8.276,8.276,0,0,0,0,8.191a1.182,1.182,0,0,0,1.194,1.17Z" transform="translate(6.018 15.38)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_20_Copy_3" data-name="Group 20 Copy 3" transform="translate(43 65)">
+        <circle id="Oval_Copy_27" data-name="Oval Copy 27" cx="23" cy="23" r="23" fill="#00b2a9"/>
+        <g id="person_copy_12" data-name="person copy 12" transform="translate(9 7.5)">
+          <rect id="Rectangle-5" data-name="Rectangle" width="28.085" height="28.085" opacity="0"/>
+          <path id="Path-9" data-name="Path" d="M4.681,9.362A4.681,4.681,0,1,0,0,4.681,4.681,4.681,0,0,0,4.681,9.362Z" transform="translate(9.362 3.343)" fill="#fff"/>
+          <path id="Path-10" data-name="Path" d="M15.523,9.362a1.182,1.182,0,0,0,1.194-1.17A8.276,8.276,0,0,0,8.359,0,8.276,8.276,0,0,0,0,8.191a1.182,1.182,0,0,0,1.194,1.17Z" transform="translate(6.018 15.38)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_20_Copy_4" data-name="Group 20 Copy 4" transform="translate(339 65)">
+        <circle id="Oval_Copy_27-2" data-name="Oval Copy 27" cx="23" cy="23" r="23" fill="#00b2a9"/>
+        <g id="person_copy_12-2" data-name="person copy 12" transform="translate(9 7.5)">
+          <rect id="Rectangle-6" data-name="Rectangle" width="28.085" height="28.085" opacity="0"/>
+          <path id="Path-11" data-name="Path" d="M4.681,9.362A4.681,4.681,0,1,0,0,4.681,4.681,4.681,0,0,0,4.681,9.362Z" transform="translate(9.362 3.343)" fill="#fff"/>
+          <path id="Path-12" data-name="Path" d="M15.523,9.362a1.182,1.182,0,0,0,1.194-1.17A8.276,8.276,0,0,0,8.359,0,8.276,8.276,0,0,0,0,8.191a1.182,1.182,0,0,0,1.194,1.17Z" transform="translate(6.018 15.38)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_20_Copy" data-name="Group 20 Copy" transform="translate(0 191)">
+        <circle id="Oval_Copy_27-3" data-name="Oval Copy 27" cx="23" cy="23" r="23" fill="#00b2a9"/>
+        <g id="person_copy_12-3" data-name="person copy 12" transform="translate(9 7.5)">
+          <rect id="Rectangle-7" data-name="Rectangle" width="28.085" height="28.085" opacity="0"/>
+          <path id="Path-13" data-name="Path" d="M4.681,9.362A4.681,4.681,0,1,0,0,4.681,4.681,4.681,0,0,0,4.681,9.362Z" transform="translate(9.362 3.343)" fill="#fff"/>
+          <path id="Path-14" data-name="Path" d="M15.523,9.362a1.182,1.182,0,0,0,1.194-1.17A8.276,8.276,0,0,0,8.359,0,8.276,8.276,0,0,0,0,8.191a1.182,1.182,0,0,0,1.194,1.17Z" transform="translate(6.018 15.38)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_20_Copy_2" data-name="Group 20 Copy 2" transform="translate(380 191)">
+        <circle id="Oval_Copy_27-4" data-name="Oval Copy 27" cx="23" cy="23" r="23" fill="#00b2a9"/>
+        <g id="person_copy_12-4" data-name="person copy 12" transform="translate(9 7.5)">
+          <rect id="Rectangle-8" data-name="Rectangle" width="28.085" height="28.085" opacity="0"/>
+          <path id="Path-15" data-name="Path" d="M4.681,9.362A4.681,4.681,0,1,0,0,4.681,4.681,4.681,0,0,0,4.681,9.362Z" transform="translate(9.362 3.343)" fill="#fff"/>
+          <path id="Path-16" data-name="Path" d="M15.523,9.362a1.182,1.182,0,0,0,1.194-1.17A8.276,8.276,0,0,0,8.359,0,8.276,8.276,0,0,0,0,8.191a1.182,1.182,0,0,0,1.194,1.17Z" transform="translate(6.018 15.38)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_34" data-name="Group 34" transform="translate(129 168)">
+        <g id="Group_33" data-name="Group 33">
+          <g transform="matrix(1, 0, 0, 1, -129, -167.38)" filter="url(#Oval)">
+            <circle id="Oval-2" data-name="Oval" cx="46" cy="46" r="46" transform="translate(129 167.38)" fill="#fff"/>
+          </g>
+          <path id="Fill_1" data-name="Fill 1" d="M23.475,0c1.369,2.62,2.582,4.994,3.846,7.339.762,1.414.971,1.461,2.328.719,1.042-.57,2.056-1.193,3.365-1.957-.708,3.691-1.349,7.046-2,10.4-.168.873-.379,1.739-.519,2.616-.067.418-.192.939.335,1.171A.966.966,0,0,0,32,19.917c1.289-1.405,2.6-2.788,3.918-4.169.348-.366.731-.7,1.162-1.106a5.434,5.434,0,0,1,.948,1.853c.8,1.722.775,1.733,2.532,1.353,1.362-.295,2.722-.6,4.088-.877a1.659,1.659,0,0,1,1.441.1,27.586,27.586,0,0,1-1.326,4.442c-.99,3.075-1.011,3.067,1.793,4.458a3.447,3.447,0,0,1,.446.372c-1.977,1.608-3.926,3.195-5.876,4.78q-2.514,2.043-5.031,4.083c-1.11.9-1.5,1.365-.793,2.736a21.631,21.631,0,0,1,.988,2.815,8.747,8.747,0,0,1-3.356-.339c-2.438-.385-4.858-.886-7.29-1.313-3.15-.553-6.171.388-9.229.862-1.867.29-3.722.654-5.858,1.034a31.816,31.816,0,0,1,1.1-3.16,1.708,1.708,0,0,0-.608-2.419C7.908,32.948,4.826,30.4,1.738,27.859A7.032,7.032,0,0,1,0,26.257,5.372,5.372,0,0,1,1.759,25.3c1.223-.569,1.315-.768.918-2.052-.651-2.105-1.328-4.2-2.049-6.479A37.065,37.065,0,0,1,6.021,17.8c2.127.427,2.117.475,2.959-1.511.22-.518.435-1.038.736-1.756,1.717,1.419,2.907,3.162,4.416,4.578.533.5.882,1.531,1.754,1.157,1.038-.445.418-1.468.286-2.2C15.524,14.508,14.8,10.957,14.107,7.4a1.151,1.151,0,0,1,.085-.977A14.7,14.7,0,0,1,17.169,8c1.506.8,1.741.758,2.5-.723C20.88,4.9,21.969,2.455,23.475,0" transform="translate(23 23)" fill="#e3292b"/>
+        </g>
+        <g id="Group_25" data-name="Group 25" transform="translate(77)">
+          <g id="Group_28" data-name="Group 28">
+            <circle id="Oval-3" data-name="Oval" cx="46" cy="46" r="46" fill="#0072ce"/>
+            <path id="Combined_Shape" data-name="Combined Shape" d="M43.942,44.483a2.935,2.935,0,0,1-1.032-3.977,2.838,2.838,0,0,1,3.913-1.049,2.936,2.936,0,0,1,1.032,3.977,2.851,2.851,0,0,1-2.475,1.445A2.814,2.814,0,0,1,43.942,44.483Zm-42.52,0A2.934,2.934,0,0,1,.39,40.505,2.837,2.837,0,0,1,4.3,39.456a2.934,2.934,0,0,1,1.032,3.977A2.851,2.851,0,0,1,2.86,44.878,2.813,2.813,0,0,1,1.422,44.483Zm28.619-2.494a2.935,2.935,0,0,1-1.032-3.977,2.836,2.836,0,0,1,3.912-1.049,2.935,2.935,0,0,1,1.033,3.977,2.853,2.853,0,0,1-2.475,1.445A2.811,2.811,0,0,1,30.041,41.989Zm-14.719,0a2.935,2.935,0,0,1-1.032-3.977A2.836,2.836,0,0,1,18.2,36.963a2.935,2.935,0,0,1,1.033,3.977,2.852,2.852,0,0,1-2.475,1.445A2.811,2.811,0,0,1,15.323,41.989ZM36.786,31.96a3.355,3.355,0,0,1-1.18-4.546,3.241,3.241,0,0,1,4.472-1.2,3.352,3.352,0,0,1,1.179,4.544,3.26,3.26,0,0,1-2.829,1.651A3.214,3.214,0,0,1,36.786,31.96Zm-27.8,0A3.355,3.355,0,0,1,7.8,27.414a3.241,3.241,0,0,1,4.472-1.2,3.353,3.353,0,0,1,1.18,4.544,3.26,3.26,0,0,1-2.83,1.651A3.215,3.215,0,0,1,8.984,31.96ZM29.63,20.268A3.773,3.773,0,0,1,28.3,15.155a3.647,3.647,0,0,1,5.031-1.349,3.772,3.772,0,0,1,1.327,5.113,3.665,3.665,0,0,1-3.182,1.858A3.616,3.616,0,0,1,29.63,20.268Zm-14.719,0a3.773,3.773,0,0,1-1.328-5.113,3.647,3.647,0,0,1,5.031-1.349,3.772,3.772,0,0,1,1.327,5.113,3.665,3.665,0,0,1-3.182,1.858A3.616,3.616,0,0,1,14.911,20.268ZM22.271,7.745a4.461,4.461,0,0,1-1.327-5.681,3.458,3.458,0,0,1,5.031-1.5A4.463,4.463,0,0,1,27.3,6.247a3.618,3.618,0,0,1-3.182,2.064A3.347,3.347,0,0,1,22.271,7.745Z" transform="translate(22.439 21.317)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
